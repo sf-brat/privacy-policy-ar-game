@@ -1,4 +1,4 @@
-# privacy-policy-ar-game
+# Политика конфиденциальности (Privacy Policy)
 Rus
 Дата вступления в силу: 03.08.2024
 
