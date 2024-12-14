@@ -6,10 +6,10 @@ Rus
 Спасибо за использование приложения "Интерактивная игра «Литературный детектив»". Меня зовут Илья Новиков, и я уважаю вашу конфиденциальность и стремлюсь защитить ваши персональные данные. В этой Политике конфиденциальности описано, какие данные я собираю и как я их использую.
 
 2. Сбор данных
-Приложение "AR Расследование" не собирает никакие личные данные пользователей.
+Приложение "Интерактивная игра «Литературный детектив»" не собирает никакие личные данные пользователей.
 
 3. Использование данных
-Для корректной работы технологии дополненной реальности (AR) приложение "AR Расследование" запрашивает доступ к камере устройства. Камера используется исключительно для отображения элементов дополненной реальности. Никакие данные с камеры не обрабатываются и не отправляются никуда.
+Для корректной работы технологии дополненной реальности (AR) приложение "Интерактивная игра «Литературный детектив»" запрашивает доступ к камере устройства. Камера используется исключительно для отображения элементов дополненной реальности. Никакие данные с камеры не обрабатываются и не отправляются никуда.
 
 4. Передача данных третьим лицам
 Я не передаю ваши данные третьим лицам. Приложение не использует подключение к Интернету и не передает никакие данные.
@@ -25,13 +25,13 @@ Rus
 Пользователи могут в любое время отключить доступ к камере через настройки устройства, если они больше не хотят использовать функции дополненной реальности.
 
 8. Возрастные ограничения
-Приложение "AR Расследование" предназначено для пользователей старше 16 лет. Это связано с тем, что игра включает в себя контент из книг с рейтингом 16+. Я не собираю сознательно личную информацию от детей младше 17 лет. Если вы являетесь родителем или опекуном и вам стало известно, что ваш ребенок предоставил мне личные данные, пожалуйста, свяжитесь со мной, и я приму меры для удаления этой информации.
+Приложение "Интерактивная игра «Литературный детектив»" предназначено для пользователей старше 16 лет. Это связано с тем, что игра включает в себя контент из книг с рейтингом 16+. Я не собираю сознательно личную информацию от детей младше 17 лет. Если вы являетесь родителем или опекуном и вам стало известно, что ваш ребенок предоставил мне личные данные, пожалуйста, свяжитесь со мной, и я приму меры для удаления этой информации.
 
 9. Изменения в Политике конфиденциальности
 Я не планирую вносить изменения в эту Политику конфиденциальности, так как приложение не собирает и не использует никакие данные. В случае добавления новых функций, требующих сбора данных, я обновлю эту Политику конфиденциальности и уведомлю пользователей о таких изменениях.
 
 10. Ваше согласие 
-Используя Приложение "AR Расследование", вы даете согласие на обработку вашей информации, как указано в настоящей Политике конфиденциальности в настоящее время и с изменениями.
+Используя Приложение "Интерактивная игра «Литературный детектив»", вы даете согласие на обработку вашей информации, как указано в настоящей Политике конфиденциальности в настоящее время и с изменениями.
 
 11. Контактная информация
 Если у вас есть вопросы или предложения по поводу этой Политики конфиденциальности, пожалуйста, свяжитесь со мной по электронной почте: oleg.bobr1@mail.ru
@@ -44,10 +44,10 @@ Effective date: 14/12/2024
 Thank you for using the "Interactive game "Literary detective"" app. My name is Ilya Novikov, and I respect your privacy and strive to protect your personal data. This Privacy Policy describes what data I collect and how I use it.
 
 2. Data collection
-The AR Investigation application does not collect any personal data of users.
+The "Interactive game "Literary detective"" application does not collect any personal data of users.
 
 3. Data Usage
-For the correct operation of augmented reality (AR) technology, the AR Investigation application requests access to the device's camera. The camera is used exclusively for displaying augmented reality elements. No data from the camera is processed or sent anywhere.
+For the correct operation of augmented reality (AR) technology, the "Interactive game "Literary detective"" application requests access to the device's camera. The camera is used exclusively for displaying augmented reality elements. No data from the camera is processed or sent anywhere.
 
 4. Transfer of data to third parties
 I do not share your data with third parties. The application does not use an internet connection and does not transmit any data.
@@ -63,13 +63,13 @@ Since the application does not collect data, the issue of data storage is not re
 Users can disable access to the camera at any time through the device settings if they no longer want to use augmented reality features.
 
 8. Age restrictions
-The AR Investigation app is designed for users over the age of 16. This is due to the fact that the game includes content from books rated 16+. I do not knowingly collect personal information from children under the age of 17. If you are a parent or guardian and you become aware that your child has provided me with personal information, please contact me and I will take steps to delete this information.
+The "Interactive game "Literary detective"" app is designed for users over the age of 16. This is due to the fact that the game includes content from books rated 16+. I do not knowingly collect personal information from children under the age of 17. If you are a parent or guardian and you become aware that your child has provided me with personal information, please contact me and I will take steps to delete this information.
 
 9. Changes to the Privacy Policy
 I do not plan to make changes to this Privacy Policy, as the application does not collect or use any data. If new features are added that require data collection, I will update this Privacy Policy and notify users of such changes.
 
 10. Your consent
-By using the AR Investigation Application, you consent to the processing of your information, as specified in this Privacy Policy, currently and as amended.
+By using the "Interactive game "Literary detective"" Application, you consent to the processing of your information, as specified in this Privacy Policy, currently and as amended.
 
 11. Contact information
 If you have any questions or suggestions about this Privacy Policy, please contact me by email: oleg.bobr1@mail.ru 
